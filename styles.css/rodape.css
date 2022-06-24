@@ -1,0 +1,28 @@
+.rodape {
+    text-align: center;
+    margin: 5em 3em;
+}
+.rodape__titulo {
+    color: var(--branco-titulo);
+    font-size: 36px;
+    margin-top: 1em;
+}
+
+.rodape__imagem {
+    width: 100px;
+}
+
+.rodape__lista {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    list-style: none;
+}
+
+.rodape__item {
+    border-bottom: 1px solid var(--branco-titulo);
+    padding: 0.5em;
+    text-decoration: none;
+    color: var(--branco-titulo);
+    margin: 0.4em 0.5em;
+}

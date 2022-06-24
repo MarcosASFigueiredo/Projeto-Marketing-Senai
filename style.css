@@ -1,0 +1,19 @@
+@import url("styles.css/conteudo.css");
+@import url("styles.css/rodape.css");
+@import url("styles.css/btns.css");
+
+:root {
+    --plano-de-fundo: #00030C;
+    --fonte-principal: "Poppins";
+    --branco-titulo: #ffffff;
+    --cinza-texto: #C0C0C0;
+    --btn-vermelho: #EE1D52;
+    --btn-azul: #69C9D0;
+}
+
+body {
+    background: var(--plano-de-fundo);
+    font-family: var(--fonte-principal);
+    color: var(--cinza-texto);
+    font-size: 18px;
+}

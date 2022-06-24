@@ -1,0 +1,20 @@
+
+.azul__btn, .vermelho__btn, .branco__btn  {
+    background-color: transparent;
+    width: 60%;
+    padding: 0.6em 1.5em;
+    border: 1px solid var(--btn-azul);
+    color: var(--btn-azul);
+    text-decoration: none;
+    border-radius: 12px;
+}
+
+.vermelho__btn {
+    border: 1px solid var(--btn-vermelho);
+    color: var(--btn-vermelho);  
+}
+
+.branco__btn {
+    border: 1px solid var(--branco-titulo);
+    color: var(--branco-titulo);
+}

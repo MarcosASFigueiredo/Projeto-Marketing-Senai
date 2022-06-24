@@ -1,0 +1,23 @@
+.conteudo {
+    text-align: center;
+}
+
+.conteudo__titulo {
+    color: var(--branco-titulo);
+    font-size: 36px;
+    margin-top: 1em;
+}
+.conteudo__titulo {
+    margin-top: 1.5em;
+}
+
+.conteudo__imagem {
+    width: 60%;
+}
+
+.conteudo__texto {
+    margin: 1em 1em 2em 1em;
+    line-height: 1.2em;
+}
+
+
